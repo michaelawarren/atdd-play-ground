@@ -1,0 +1,19 @@
+{
+  "name": "sample-acceptance-tests",
+  "version": "0.0.1",
+  "description": "fun testing for acceptance tests",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Michael Warren",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelawarren/atdd-play-ground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelawarren/atdd-play-ground/issues"
+  },
+  "homepage": "https://github.com/michaelawarren/atdd-play-ground#readme"
+}
