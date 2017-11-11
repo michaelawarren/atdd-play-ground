@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelawarren/atdd-play-ground/issues"
   },
-  "homepage": "https://github.com/michaelawarren/atdd-play-ground#readme"
+  "homepage": "https://github.com/michaelawarren/atdd-play-ground#readme",
+  "devDependencies": {
+    "cucumber": "^3.1.0"
+  }
 }
