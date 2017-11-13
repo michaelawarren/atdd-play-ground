@@ -4,7 +4,7 @@
   "description": "fun testing for acceptance tests",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "jasmine"
   },
   "author": "Michael Warren",
   "license": "ISC",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/michaelawarren/atdd-play-ground#readme",
   "devDependencies": {
-    "cucumber": "^3.1.0"
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "request": "^2.83.0"
   }
 }
