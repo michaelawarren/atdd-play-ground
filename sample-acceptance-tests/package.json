@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/michaelawarren/atdd-play-ground#readme",
   "devDependencies": {
-    "jasmine": "^2.8.0",
-    "karma": "^1.7.1",
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {
     "request": "^2.83.0"
   }
 }
